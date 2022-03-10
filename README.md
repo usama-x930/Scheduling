@@ -48,8 +48,13 @@ Weighted round robin is a generalisation of round-robin scheduling. It serves a 
 ## Sample Input
 
 ### EDF
-<img src="img/edf.jpg" width="500" title="hover text">
+
+<img src="img/edf.jpg" width="300" title="hover text">
+
 ### RM
-<img src="img/rm.jpg" width="500" title="hover text">
+
+<img src="img/rm.jpg" width="300" title="hover text">
+
 ### WRR
-<img src="img/wrr.jpg" width="500" title="hover text">
+
+<img src="img/wrr.jpg" width="300" title="hover text">
