@@ -42,3 +42,14 @@ Rate monotonic scheduling is a priority algorithm that belongs to the static pri
 
 In Round-robin scheduling, each ready task runs turn by turn only in a cyclic queue for a limited time slice. This algorithm also offers starvation free execution of processes.
 Weighted round robin is a generalisation of round-robin scheduling. It serves a set of queues or tasks. Whereas round-robin cycles over the queues or tasks and gives one service opportunity per cycle, weighted round robin offers to each a fixed number of opportunities, as specified by the configured weight which serves to influence the portion of capacity received by each queue or task.
+
+
+
+## Sample Input
+
+### EDF
+<img src="img/edf.jpg" width="500" title="hover text">
+### RM
+<img src="img/rm.jpg" width="500" title="hover text">
+### WRR
+<img src="img/wrr.jpg" width="500" title="hover text">
